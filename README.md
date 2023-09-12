@@ -6,7 +6,7 @@
 
 ### ABOUT THE PROJECT
 
-The Project Named “ONLINE CAMPUS RECRUITMENT” is a student/company web-based Information system. 
+The Project Named “ONLINE CAMPUS RECRUITMENT” is a student/company web based Information system. 
 Training and Placement Cell is the management cell it is 
 supported by databases. Training and Placement has a major role in every college in which 
 most of the work till now is carried out manually. The Main aim of this project is to 
