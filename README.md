@@ -1,63 +1,27 @@
-# UNIVERSITY INSTITUTE OF ENGINEERING & TECHNOLOGY C.S.J.M.U. KANPUR
+# Computer Science Engineering
 
-# Computer Science Department
+## Software Engineering Project Management
 
-## CSE-S301 (D.B.M.S.) PROJECT
-
-# CAMPUS RECRUITMENT MANAGEMENT SYSTEM
-
-##### SUBMITTED BY
-
-##### AKASH VERMA 
-
-##### CSJMA16001390 004 
-
-##### PREETI SAHANI
-
-##### CSJMA16001390 103
-
-##### (B. TECH CSE 3rd YEAR 2K16)
-
-##### - SUBMITTED TO-
-##### ER. DEEPAK KUMAR VERMA (CSE-S301 INSTRUCTOR)
-
-
+# Online Campus Recruitment System
 
 ### ABOUT THE PROJECT
 
-The project named “Campus Recruitment Management System”, is a
-student/company information system which is a web-based system. The
-project is developed for Placement cell being presently used in University
-for storing and retrieving the information of students who are registered in
-Placement Cell. The Placement Cell maintains a large database of students
-wherein all the information of students including personal records and the
-academic performance in terms C.P.I. is stored and company information
-including profile of company, eligibility criteria and facilities it provides
-etc. The software retrieves this data and displays as per the user
-requirement.
+The Project Named “ONLINE CAMPUS RECRUITMENT” is a student/company webbased Information system. 
+Training and Placement Cell is the management cell it is 
+supported by databases. Training and Placement has a major role in every college in which 
+most of the work till now is carried out manually. The Main aim of this project is to 
+Automate the Training and Placement procedure in our college. This project reduces manual 
+work and maximum the optimization, abstraction and security. This is a web application 
+which will help students as well as the administration authority to carry out each and every 
+activity in campus hiring.
+ This system is an application that can be accessed throughout the organization and 
+outside as well with proper login credentials. This system can be used as an application for 
+the Training and placement cell of the college to manage the student information with 
+regarding placement recruitment.
+ Students able to view eligibility criteria based on their CGPA for the up-coming 
+placement drives and they can access technical and QA papers regarding particular 
+company.
 
-The Placement Management System is developed as an attempt to take
-a record of company and students by restricting such a large database to that
-of a particular class of students or company. The system provides the
-facility of viewing both the personal and academic information of the
-student and company. Company can post vacancy and students can apply if
-they are eligible. Company can view the applications and can accept or
-reject them.
-
-The project is to facilitate students in college, company to register and
-communicate with Placement Cell. The users access easily to this and the
-data can be retrieved easily in no time. In the main page there are options
-for Student/Company/Admin login and for registration of new students and
-companies as well. In student registration form, we can give personal
-details, educational qualifications etc. Student can see the information of
-various registered companies and the details of vacancies provided by them
-on their dashboard. They can apply for the job by checking eligibility. In
-Company registration form the companies can give their details and they
-can provide vacancies for different job profiles by vacancy registration
-form. List of applied and eligible students is displayed on their dashboard
-and thus they can accept or reject their application. The administrator can
-execute different queries like details of registered students and companies,
-placed students, job profiles etc. and can delete the records as well.
 
 
 
